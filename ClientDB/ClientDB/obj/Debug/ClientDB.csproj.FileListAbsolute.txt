@@ -1,0 +1,9 @@
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.Form1.resources
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.Properties.Resources.resources
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\ClientDB\ClientDB\bin\Debug\ClientDB.exe.config
+C:\Users\Dan\source\repos\ClientDB\ClientDB\bin\Debug\ClientDB.exe
+C:\Users\Dan\source\repos\ClientDB\ClientDB\bin\Debug\ClientDB.pdb
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.exe
+C:\Users\Dan\source\repos\ClientDB\ClientDB\obj\Debug\ClientDB.pdb
